@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/jinan86/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/jinan86/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A chess engine in a single `main.py` of 3,688 bytes: 0x88 board, negamax
+A chess engine in a single `main.py` of 3,760 bytes: 0x88 board, negamax
 with alpha-beta, quiescence search, transposition table, killer moves,
 MVV-LVA ordering, null-move pruning and iterative deepening on a fixed
 60,000-node budget per move. Its evaluation mirrors the house eval
